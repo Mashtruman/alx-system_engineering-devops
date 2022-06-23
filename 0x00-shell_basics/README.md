@@ -15,3 +15,4 @@ s all files (even ones with names beginning with a period character
 Write a script that changes the working directory to the previous one
 Lists
  script that prints the type of the file named iamafile..
+Symbolic link..ls
