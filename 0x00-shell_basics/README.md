@@ -8,3 +8,8 @@ la -lna -Display current directory contents in long format ditits
 mv /tmp/betty /tmp/my_first_directory  - moves file betty from /tmp/ to /tmp/my_first_directory
  rm /tmp/my_first_directory/betty- Delete the file betty
 rmdir - Delete the directory my_first_directory that is in the /tmp directory
+ cd - -Write a script that changes the working directo
+
+ry to the previous one
+s all files (even ones with names beginning with a period character
+Write a script that changes the working directory to the previous one
