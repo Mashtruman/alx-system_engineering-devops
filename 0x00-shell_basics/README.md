@@ -1,3 +1,4 @@
-pwd-print the absolute pathname of  the current working directory
-ls -Display the contents list of your current directory
- cd ~ -script that changes the working directory to the user’s home director
+pwd- a script that prints the absolute path name of the current working directory
+ls -list directory content
+cd ~ -change directory to home
+ls -l -List directory content in long format
