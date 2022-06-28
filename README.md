@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-0x00. Shell, basics
+0-alias >> Create a script that creates an alias..Name: ls Value: rm *
